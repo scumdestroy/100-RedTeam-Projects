@@ -8,7 +8,7 @@ Level 1 | Basic | Exemple
 ------------------------------------------------|------------------------------------------------|-----------------------------------------
 [0] | TCP or UDP server just to receive messages | :heavy_check_mark:
 [1] | TCP chat server | :heavy_check_mark:
-[2] | UDP chat server | :heavy_check_mark:
+[2] | UDP chat server | :x:
 [3] | Multi-threaded UDP or TCP chat server | :x:
 [4] | Server for file transfers | :x:
 [5] | Caesar Cipher tool | :x:
@@ -27,7 +27,7 @@ Level 2 | Essential | Exemple
 [15] | Recursive Web Directory brute-forcer (Threaded peer recursion) | :x:
 [16] | Web Login bruteforce tool | :x:
 [17] | FTP Login bruteforce tool | :x:
-[18] | SSH Login bruteforce tool | :heavy_check_mark:
+[18] | SSH Login bruteforce tool | :x:
 [19] | FTP User footprint | :x:
 [20] | MYSQL User footprint | :x:
 [21] | Simple Google Bot for web scan | :x:
