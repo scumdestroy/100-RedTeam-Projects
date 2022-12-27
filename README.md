@@ -8,7 +8,7 @@ Level 1 | Basic | Exemple
 ------------------------------------------------|------------------------------------------------|-----------------------------------------
 [0] | TCP or UDP server just to receive messages | :heavy_check_mark:
 [1] | TCP chat server | :heavy_check_mark:
-[2] | UDP chat server | :x:
+[2] | UDP chat server | ✔️
 [3] | Multi-threaded UDP or TCP chat server | :x:
 [4] | Server for file transfers | :x:
 [5] | Caesar Cipher tool | :x:
@@ -21,7 +21,7 @@ Level 1 | Basic | Exemple
 Level 2 | Essential | Exemple
 ------------------------------------------------|------------------------------------------------|-----------------------------------------
 [11] | Simple port scanner | :heavy_check_mark:
-[12] | Port scanner with OS fingerprint using TTL (Time To Live) | ✔️:
+[12] | Port scanner with OS fingerprint using TTL (Time To Live) | ✔️
 [13] | Port scanner with port footprint (HTTP? DNS? FTP? IRC?) | :x:
 [14] | Simple Web Directory brute-forcer (Threaded) | :x:
 [15] | Recursive Web Directory brute-forcer (Threaded peer recursion) | :x:
