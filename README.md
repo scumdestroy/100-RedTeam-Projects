@@ -11,7 +11,7 @@ Level 1 | Basic | Exemple
 [2] | UDP chat server | ✔️
 [3] | Multi-threaded UDP or TCP chat server | ✔️
 [4] | Server for file transfers | ✔️
-[5] | Caesar Cipher tool | :x:
+[5] | Caesar Cipher tool | ✔️
 [6] | TCP chat server -> The messages should be encoded with Caesar Cipher | :x:
 [7] | ROT13 Cipher | :x:
 [8] | UDP Chat server -> The messages should be encoded with ROT13 Cipher | :x:
