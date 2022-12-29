@@ -12,9 +12,9 @@ Level 1 | Basic | Exemple
 [3] | Multi-threaded UDP or TCP chat server | ✔️
 [4] | Server for file transfers | ✔️
 [5] | Caesar Cipher tool | ✔️
-[6] | TCP chat server -> The messages should be encoded with Caesar Cipher | :x:
-[7] | ROT13 Cipher | :x:
-[8] | UDP Chat server -> The messages should be encoded with ROT13 Cipher | :x:
+[6] | TCP chat server -> The messages should be encoded with Caesar Cipher | ✔️
+[7] | ROT13 Cipher | ✔️
+[8] | UDP Chat server -> The messages should be encoded with ROT13 Cipher | ✔️
 [9] | Remote command execution | :x:
 [10] | Recreate the Netcat tool | :x:
 -------------------------------------------------------------------------------------------------------------------------------------------
@@ -22,7 +22,7 @@ Level 2 | Essential | Exemple
 ------------------------------------------------|------------------------------------------------|-----------------------------------------
 [11] | Simple port scanner | :heavy_check_mark:
 [12] | Port scanner with OS fingerprint using TTL (Time To Live) | ✔️
-[13] | Port scanner with port footprint (HTTP? DNS? FTP? IRC?) | :x:
+[13] | Port scanner with port footprint (HTTP? DNS? FTP? IRC?) | ✔️
 [14] | Simple Web Directory brute-forcer (Threaded) | :x:
 [15] | Recursive Web Directory brute-forcer (Threaded peer recursion) | :x:
 [16] | Web Login bruteforce tool | :x:
