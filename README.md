@@ -26,7 +26,7 @@ Level 2 | Essential | Exemple
 [14] | Simple Web Directory brute-forcer (Threaded) | :x:
 [15] | Recursive Web Directory brute-forcer (Threaded peer recursion) | :x:
 [16] | Web Login bruteforce tool | :x:
-[17] | FTP Login bruteforce tool | :x:
+[17] | FTP Login bruteforce tool | ✔️
 [18] | SSH Login bruteforce tool | :x:
 [19] | FTP User footprint | :x:
 [20] | MYSQL User footprint | :x:
