@@ -28,7 +28,7 @@ Level 2 | Essential | Exemple
 [16] | Web Login bruteforce tool | :x:
 [17] | FTP Login bruteforce tool | ✔️
 [18] | SSH Login bruteforce tool | :x:
-[19] | FTP User footprint | :x:
+[19] | FTP User footprint | ✔️
 [20] | MYSQL User footprint | :x:
 [21] | Simple Google Bot for web scan | :x:
 [22] | Auto website comment bot | :x:
