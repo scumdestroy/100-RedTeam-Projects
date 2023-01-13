@@ -16,18 +16,18 @@ Level 1 | Basic | Exemple
 [7] | ROT13 Cipher | ✔️
 [8] | UDP Chat server -> The messages should be encoded with ROT13 Cipher | ✔️
 [9] | Remote command execution | :x:
-[10] | Recreate the Netcat tool | :x:
+[10] | Recreate the Netcat tool | ✔️
 -------------------------------------------------------------------------------------------------------------------------------------------
 Level 2 | Essential | Exemple
 ------------------------------------------------|------------------------------------------------|-----------------------------------------
 [11] | Simple port scanner | :heavy_check_mark:
 [12] | Port scanner with OS fingerprint using TTL (Time To Live) | ✔️
 [13] | Port scanner with port footprint (HTTP? DNS? FTP? IRC?) | ✔️
-[14] | Simple Web Directory brute-forcer (Threaded) | :x:
+[14] | Simple Web Directory brute-forcer (Threaded) | :x:3
 [15] | Recursive Web Directory brute-forcer (Threaded peer recursion) | :x:
 [16] | Web Login bruteforce tool | :x:
 [17] | FTP Login bruteforce tool | ✔️
-[18] | SSH Login bruteforce tool | :x:
+[18] | SSH Login bruteforce tool | ✔️
 [19] | FTP User footprint | ✔️
 [20] | MYSQL User footprint | :x:
 [21] | Simple Google Bot for web scan | :x:
