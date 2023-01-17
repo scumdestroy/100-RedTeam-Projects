@@ -48,7 +48,7 @@ Level 3 | Advanced Network Attacks | Exemple
 [33] | Implement a Botnet | :x:
 [34] | Passive web scanner | :x:
 [35] | ARP poisoning tool | :x:
-[36] | Application that creates random shortcuts on screen | :x:
+[36] | Application that creates random shortcuts on screen | ✔️
 [37] | Application to encrypt a file | :x:
 [38] | Develop a Ransomware application | :x:
 [39] | Spam Email sender | :x:
@@ -67,7 +67,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [48] | Payload that moves the mouse cursor | :x:
 [49] | Vigenère Cipher | :x:
 [50] | Payload that starts automatically using Windows Regedit | :x:
-[51] | Payload that starts as a daemon | :x:
+[51] | Payload that starts as a daemon | ✔️
 [52] | Payload that retrieves browser information | :x:
 [53] | Link generator | :x:
 [54] | ASCII Name generator [ just for fun :) ]  | :x:
