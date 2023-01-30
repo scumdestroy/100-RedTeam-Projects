@@ -30,7 +30,7 @@ Level 2 | Essential | Exemple
 [18] | SSH Login bruteforce tool | ✔️
 [19] | FTP User footprint | ✔️
 [20] | MYSQL User footprint | ✔️
-[21] | Simple Google Bot for web scan | :x:
+[21] | Simple Google Bot for web scan | ✔️
 [22] | Auto website comment bot | ✔️
 [23] | Auto website message bot | ✔️
 [24] | Web-scrapping using Regex | :x:
