@@ -31,8 +31,8 @@ Level 2 | Essential | Exemple
 [19] | FTP User footprint | ✔️
 [20] | MYSQL User footprint | ✔️
 [21] | Simple Google Bot for web scan | :x:
-[22] | Auto website comment bot | :x:
-[23] | Auto website message bot | :x:
+[22] | Auto website comment bot | ✔️
+[23] | Auto website message bot | ✔️
 [24] | Web-scrapping using Regex | :x:
 [25] | Bot to collect information about someone using Google / Bing / Yahoo! | :x:
 [26] | Simple SQLi tester | :x:
