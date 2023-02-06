@@ -36,7 +36,7 @@ Level 2 | Essential | Exemple
 [24] | Web-scrapping using Regex | :x:
 [25] | Bot to collect information about someone using Google / Bing / Yahoo! | :x:
 [26] | Simple SQLi tester | :x:
-[27] | Simple XSS tester | :x:
+[27] | Simple XSS tester | ✔️
 [28] | Simple Wordpress brute-forcer | :x:
 [29] | SQLi database retriever | :x:
 [30] | Spam creator | :x:
@@ -49,14 +49,14 @@ Level 3 | Advanced Network Attacks | Exemple
 [34] | Passive web scanner | :x:
 [35] | ARP poisoning tool | :x:
 [36] | Application that creates random shortcuts on screen | ✔️
-[37] | Application to encrypt a file | :x:
+[37] | Application to encrypt a file | ✔️
 [38] | Develop a Ransomware application | :x:
-[39] | Spam Email sender | :x:
+[39] | Spam Email sender | ✔️
 [40] | HTTP server for phishing | :x:
 [41] | Honeypot creator | :x:
-[42] | Application that connects to the Tor Network | :x:
-[43] | IRC Server | :x:
-[44] | Packet Capture tool | :x:
+[42] | Application that connects to the Tor Network | ✔️
+[43] | IRC Server | ✔️
+[44] | Packet Capture tool | ✔️
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 Level 4 | Data analysis, payloads and more networking | Exemple
