@@ -50,7 +50,7 @@ Level 3 | Advanced Network Attacks | Exemple
 [35] | ARP poisoning tool | :x:
 [36] | Application that creates random shortcuts on screen | ✔️
 [37] | Application to encrypt a file | ✔️
-[38] | Develop a Ransomware application | :x:
+[38] | Develop a Ransomware application | ✔️
 [39] | Spam Email sender | ✔️
 [40] | HTTP server for phishing | :x:
 [41] | Honeypot creator | :x:
