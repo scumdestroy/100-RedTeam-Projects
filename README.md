@@ -61,14 +61,14 @@ Level 3 | Advanced Network Attacks | Exemple
 -------------------------------------------------------------------------------------------------------------------------------------------
 Level 4 | Data analysis, payloads and more networking | Exemple
 ------------------------------------------------|------------------------------------------|-----------------------------------------------
-[45] | Packet Data analysis | :x:
-[46] | Packet image analysis with OpenCV | :x:
-[47] | Develop a hexdump tool | :x:
-[48] | Payload that moves the mouse cursor | :x:
+[45] | Packet Data analysis | ✔️
+[46] | Packet image analysis with OpenCV | ✔️
+[47] | Develop a hexdump tool | ✔️
+[48] | Payload that moves the mouse cursor | ✔️
 [49] | Vigenère Cipher | :x:
 [50] | Payload that starts automatically using Windows Regedit | :x:
 [51] | Payload that starts as a daemon | :x:
-[52] | Payload that retrieves browser information | :x:
+[52] | Payload that retrieves browser information | ✔️
 [53] | Link generator | :x:
 [54] | ASCII Name generator [ just for fun :) ]  | :x:
 [55] | Full chat server with private messages, file and image transfer | :x:
