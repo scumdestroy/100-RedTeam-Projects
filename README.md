@@ -66,7 +66,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [47] | Develop a hexdump tool | ✔️
 [48] | Payload that moves the mouse cursor | ✔️
 [49] | Vigenère Cipher | :x:
-[50] | Payload that starts automatically using Windows Regedit | :x:
+[50] | Payload that starts automatically using Windows Regedit | ✔️
 [51] | Payload that starts as a daemon | :x:
 [52] | Payload that retrieves browser information | ✔️
 [53] | Link generator | :x:
