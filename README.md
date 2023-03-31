@@ -33,7 +33,7 @@ Level 2 | Essential | Exemple
 [21] | Simple Google Bot for web scan | ✔️
 [22] | Auto website comment bot | ✔️
 [23] | Auto website message bot | ✔️
-[24] | Web-scrapping using Regex | :x:
+[24] | Web-scrapping using Regex | ✔️
 [25] | Bot to collect information about someone using Google / Bing / Yahoo! | :x:
 [26] | Simple SQLi tester | :x:
 [27] | Simple XSS tester | ✔️
