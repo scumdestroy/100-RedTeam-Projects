@@ -46,14 +46,14 @@ Level 3 | Advanced Network Attacks | Exemple
 [31] | Payload for reverse shell | :x:
 [32] | Payload to capture screenshots | ✔️
 [33] | Implement a Botnet | :x:
-[34] | Passive web scanner | :x:
+[34] | Passive web scanner | ✔️
 [35] | ARP poisoning tool | :x:
 [36] | Application that creates random shortcuts on screen | ✔️
 [37] | Application to encrypt a file | ✔️
 [38] | Develop a Ransomware application | ✔️
 [39] | Spam Email sender | ✔️
 [40] | HTTP server for phishing | :x:
-[41] | Honeypot creator | :x:
+[41] | Honeypot creator | ✔️
 [42] | Application that connects to the Tor Network | ✔️
 [43] | IRC Server | ✔️
 [44] | Packet Capture tool | ✔️
@@ -76,11 +76,11 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [57] | Gateway | ✔️
 [58] | Powershell payload generator | :x:
 [59] | Bash payload generator | :x:
-[60] | Subdomain enumerator | :x:
-[61] | DNS Enumerator | :x:
+[60] | Subdomain enumerator | ✔️
+[61] | DNS Enumerator | ✔️
 [62] | Your own interpreter | :x:
 [63] | Develop a Worm | :x:
-[64] | Server for DDOS | :x:
+[64] | Server for DDOS | ✔️
 [65] | Implement an IP Tracker | :x:
 [66] | BurpSuite extender | :x:
 [67] | Develop a Trojan | :x:
