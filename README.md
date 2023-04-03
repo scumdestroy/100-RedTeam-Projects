@@ -65,15 +65,15 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [46] | Packet image analysis with OpenCV | ✔️
 [47] | Develop a hexdump tool | ✔️
 [48] | Payload that moves the mouse cursor | ✔️
-[49] | Vigenère Cipher | :x:
+[49] | Vigenère Cipher | ✔️
 [50] | Payload that starts automatically using Windows Regedit | ✔️
 [51] | Payload that starts as a daemon | :x:
 [52] | Payload that retrieves browser information | ✔️
 [53] | Link generator | :x:
 [54] | ASCII Name generator [ just for fun :) ]  | :x:
 [55] | Full chat server with private messages, file and image transfer | :x:
-[56] | Simple firewall | :x:
-[57] | Gateway | :x:
+[56] | Simple firewall | ✔️
+[57] | Gateway | ✔️
 [58] | Powershell payload generator | :x:
 [59] | Bash payload generator | :x:
 [60] | Subdomain enumerator | :x:
