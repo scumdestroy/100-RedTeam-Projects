@@ -81,7 +81,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [62] | Your own interpreter | :x:
 [63] | Develop a Worm | :x:
 [64] | Server for DDOS | ✔️
-[65] | Implement an IP Tracker | :x:
+[65] | Implement an IP Tracker | ✔️
 [66] | BurpSuite extender | :x:
 [67] | Develop a Trojan | :x:
 [68] | Man In The Browser tool (kind of) | :x:
@@ -93,7 +93,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 ------------------------------------------------|------------------------------------------|-----------------------------------------------
 [71] | Develop a code injection tool | :x:
 [72] | Develop a Worm with auto replication over email | :x:
-[73] | Simple Disassembler | :x:
+[73] | Simple Disassembler | ✔️
 [74] | Server for DDoS with multi-staged operations and multi-threaded handling of clients | :x:
 [75] | Password hash cracker | :x:
 [76] | Direct code injection exploit | :x:
@@ -102,7 +102,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [79] | Simple tool for Reverse Engineering | :x:
 [80] | Script for OS enumeration (after shell) | :x:
 [81] | RSA Payload generator | :x:
-[82] | Handshake capture | :x:
+[82] | Handshake capture | ✔️
 [83] | Wifi monitor | :x:
 [84] | Buffer Overflow exploit | :x:
 [85] | Stack Overflow exploit | :x:
@@ -115,7 +115,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [92] | Botnet with SSH C&C and automatic server backup to prevent loss of control | :x:
 [93] | Windows enumeration tool | :x:
 [94] | Application information gathering (after shell) | :x:
-[95] | Recreate TCPDUMP | :x:
+[95] | Recreate TCPDUMP | ✔️
 [96] | Bluetooth exploit | :x:
 [97] | Windows Blue Screen Exploit | :x:
 [98] | Encoded exploit | :x:
