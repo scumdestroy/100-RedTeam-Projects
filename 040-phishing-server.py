@@ -43,6 +43,3 @@ with open(log_file, "a") as file:
     httpd.server_close()
     file.write(f"[{datetime.datetime.now()}] Server stopped\n")
 
-This script first downloads a copy of the target webpage using the requests library and saves it to a file. It then sets up a basic HTTPS server using the http.server and socketserver libraries, and creates a self-signed SSL certificate using the openssl command-line tool. Finally, it logs all incoming requests to a file using the datetime module.
-
-Note that this script is a simple example and may need to be adapted to your specific needs and requirements. Also, keep in mind that self-signed SSL certificates are not trusted by web browsers by default, so you may need to add an exception to your browser to access the server.
