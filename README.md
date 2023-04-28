@@ -101,16 +101,16 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [78] | Browser exploitation tool | :x:
 [79] | Simple tool for Reverse Engineering | :x:
 [80] | Script for OS enumeration (after shell) | :x:
-[81] | RSA Payload generator | :x:
+[81] | RSA Payload generator | ✔️
 [82] | Handshake capture | ✔️
 [83] | Wifi monitor | ✔️
 [84] | Buffer Overflow exploit | :x:
 [85] | Stack Overflow exploit | :x:
 [86] | Banner exploit | :x:
 [87] | ISS Exploit | :x:
-[88] | Wifi de-authentication attack (DoS) tool | :x:
+[88] | Wifi de-authentication attack (DoS) tool | ✔️
 [89] | Badchar detector | :x:
-[90] | Firewall detector | :x:
+[90] | Firewall detector | ✔️
 [91] | Exploitation Framework | :x:
 [92] | Botnet with SSH C&C and automatic server backup to prevent loss of control | :x:
 [93] | Windows enumeration tool | :x:
