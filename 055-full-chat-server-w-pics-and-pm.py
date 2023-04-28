@@ -113,3 +113,29 @@ def handle_message(client_socket, client_address):
         clients.remove(client_socket)
         print('Client disconnected:', client_name)
         break
+        
+def handle_history(client_socket):
+# Receive the client's username
+client_name = client_socket.recv(1024).decode('utf-8')
+
+# Check if the client has any messages in the history
+if client_name in messages:
+    history = ''.join(messages[client_name])
+    client_socket.sendall(history.encode('utf-8'))
+else:
+    error_message = 'No history found.\n'
+    client_socket.sendall(error_message.encode('utf-8'))
+
+while True:
+# Accept new connections
+    client_socket, client_address = server.accept()
+
+    makefile
+
+    # Create a new thread to handle the client's messages
+    message_thread = threading.Thread(target=handle_message, args=(client_socket, client_address))
+    message_thread.start()
+
+    # Create a new thread to handle the client's history requests
+    history_thread = threading.Thread(target=handle_history, args=(client_socket,))
+    history_thread.start()
