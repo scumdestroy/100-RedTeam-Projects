@@ -35,10 +35,10 @@ Level 2 | Essential | Exemple
 [23] | Auto website message bot | ✔️
 [24] | Web-scrapping using Regex | ✔️
 [25] | Bot to collect information about someone using Google / Bing / Yahoo! | ✔️
-[26] | Simple SQLi tester | :x:
+[26] | Simple SQLi tester | ✔️
 [27] | Simple XSS tester | ✔️
-[28] | Simple Wordpress brute-forcer | :x:
-[29] | SQLi database retriever | :x:
+[28] | Simple Wordpress brute-forcer | ✔️
+[29] | SQLi database retriever | ✔️
 [30] | Spam creator | :x:
 -------------------------------------------------------------------------------------------------------------------------------------------
 Level 3 | Advanced Network Attacks | Exemple
@@ -71,7 +71,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [52] | Payload that retrieves browser information | ✔️
 [53] | Link generator | :x:
 [54] | ASCII Name generator [ just for fun :) ]  | :x:
-[55] | Full chat server with private messages, file and image transfer | :x:
+[55] | Full chat server with private messages, file and image transfer | ✔️
 [56] | Simple firewall | ✔️
 [57] | Gateway | ✔️
 [58] | Powershell payload generator | :x:
@@ -103,7 +103,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [80] | Script for OS enumeration (after shell) | :x:
 [81] | RSA Payload generator | :x:
 [82] | Handshake capture | ✔️
-[83] | Wifi monitor | :x:
+[83] | Wifi monitor | ✔️
 [84] | Buffer Overflow exploit | :x:
 [85] | Stack Overflow exploit | :x:
 [86] | Banner exploit | :x:
