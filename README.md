@@ -43,11 +43,11 @@ Level 2 | Essential | Exemple
 -------------------------------------------------------------------------------------------------------------------------------------------
 Level 3 | Advanced Network Attacks | Exemple
 ------------------------------------------------|-------------------------------------------|----------------------------------------------
-[31] | Payload for reverse shell | :x:
+[31] | Payload for reverse shell | ✔️
 [32] | Payload to capture screenshots | ✔️
 [33] | Implement a Botnet | :x:
 [34] | Passive web scanner | ✔️
-[35] | ARP poisoning tool | :x:
+[35] | ARP poisoning tool | ✔️
 [36] | Application that creates random shortcuts on screen | ✔️
 [37] | Application to encrypt a file | ✔️
 [38] | Develop a Ransomware application | ✔️
@@ -67,7 +67,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [48] | Payload that moves the mouse cursor | ✔️
 [49] | Vigenère Cipher | ✔️
 [50] | Payload that starts automatically using Windows Regedit | ✔️
-[51] | Payload that starts as a daemon | :x:
+[51] | Payload that starts as a daemon | ✔️
 [52] | Payload that retrieves browser information | ✔️
 [53] | Link generator | :x:
 [54] | ASCII Name generator [ just for fun :) ]  | :x:
