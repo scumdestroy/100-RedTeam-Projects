@@ -52,7 +52,7 @@ Level 3 | Advanced Network Attacks | Exemple
 [37] | Application to encrypt a file | ✔️
 [38] | Develop a Ransomware application | ✔️
 [39] | Spam Email sender | ✔️
-[40] | HTTP server for phishing | :x:
+[40] | HTTP server for phishing | ✔️
 [41] | Honeypot creator | ✔️
 [42] | Application that connects to the Tor Network | ✔️
 [43] | IRC Server | ✔️
@@ -75,7 +75,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [56] | Simple firewall | ✔️
 [57] | Gateway | ✔️
 [58] | Powershell payload generator | :x:
-[59] | Bash payload generator | :x:
+[59] | Bash payload generator | ✔️
 [60] | Subdomain enumerator | ✔️
 [61] | DNS Enumerator | ✔️
 [62] | Your own interpreter | :x:
@@ -100,7 +100,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [77] | Android daemon payload | :x:
 [78] | Browser exploitation tool | :x:
 [79] | Simple tool for Reverse Engineering | :x:
-[80] | Script for OS enumeration (after shell) | :x:
+[80] | Script for OS enumeration (after shell) | ✔️ ✔️
 [81] | RSA Payload generator | ✔️
 [82] | Handshake capture | ✔️
 [83] | Wifi monitor | ✔️
@@ -109,7 +109,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [86] | Banner exploit | :x:
 [87] | ISS Exploit | :x:
 [88] | Wifi de-authentication attack (DoS) tool | ✔️
-[89] | Badchar detector | :x:
+[89] | Badchar detector | ✔️
 [90] | Firewall detector | ✔️
 [91] | Exploitation Framework | :x:
 [92] | Botnet with SSH C&C and automatic server backup to prevent loss of control | :x:
