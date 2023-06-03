@@ -70,7 +70,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [51] | Payload that starts as a daemon | ✔️
 [52] | Payload that retrieves browser information | ✔️
 [53] | Link generator | :x:
-[54] | ASCII Name generator [ just for fun :) ]  | :x:
+[54] | ASCII Name generator [ just for fun :) ]  | ✔️
 [55] | Full chat server with private messages, file and image transfer | ✔️
 [56] | Simple firewall | ✔️
 [57] | Gateway | ✔️
@@ -95,7 +95,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [72] | Develop a Worm with auto replication over email | :x:
 [73] | Simple Disassembler | ✔️
 [74] | Server for DDoS with multi-staged operations and multi-threaded handling of clients | :x:
-[75] | Password hash cracker | :x:
+[75] | Password hash cracker | ✔️
 [76] | Direct code injection exploit | :x:
 [77] | Android daemon payload | :x:
 [78] | Browser exploitation tool | :x:
