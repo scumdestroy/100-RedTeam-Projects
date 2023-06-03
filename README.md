@@ -113,11 +113,11 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [90] | Firewall detector | ✔️
 [91] | Exploitation Framework | :x:
 [92] | Botnet with SSH C&C and automatic server backup to prevent loss of control | :x:
-[93] | Windows enumeration tool | :x:
+[93] | Windows enumeration tool | ✔️
 [94] | Application information gathering (after shell) | :x:
 [95] | Recreate TCPDUMP | ✔️
 [96] | Bluetooth exploit | :x:
-[97] | Windows Blue Screen Exploit | :x:
+[97] | Windows Blue Screen Exploit | ✔️
 [98] | Encoded exploit | :x:
 [99] | Antivirus evasion application | :x:
 [100] | Your own metasploit module | :x:
