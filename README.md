@@ -79,7 +79,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [60] | Subdomain enumerator | ✔️
 [61] | DNS Enumerator | ✔️
 [62] | Your own interpreter | :x:
-[63] | Develop a Worm | :x:
+[63] | Develop a Worm | ✔️
 [64] | Server for DDOS | ✔️
 [65] | Implement an IP Tracker | ✔️
 [66] | BurpSuite extender | :x:
@@ -92,7 +92,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
  Level 5 | Cryptography, Reverse Engineering and Post exploitation | Exemple
 ------------------------------------------------|------------------------------------------|-----------------------------------------------
 [71] | Develop a code injection tool | :x:
-[72] | Develop a Worm with auto replication over email | :x:
+[72] | Develop a Worm with auto replication over email | ✔️
 [73] | Simple Disassembler | ✔️
 [74] | Server for DDoS with multi-staged operations and multi-threaded handling of clients | :x:
 [75] | Password hash cracker | ✔️
@@ -104,7 +104,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [81] | RSA Payload generator | ✔️
 [82] | Handshake capture | ✔️
 [83] | Wifi monitor | ✔️
-[84] | Buffer Overflow exploit | :x:
+[84] | Buffer Overflow exploit | ✔️
 [85] | Stack Overflow exploit | :x:
 [86] | Banner exploit | :x:
 [87] | ISS Exploit | :x:
