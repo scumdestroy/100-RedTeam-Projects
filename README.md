@@ -6,8 +6,8 @@ Attempt to grind out the 100 offsec project challenges, conceptualized by github
 -------------------------------------------------------------------------------------------------------------------------------------------
 Level 1 | Basic | Exemple
 ------------------------------------------------|------------------------------------------------|-----------------------------------------
-[0] | TCP or UDP server just to receive messages | :heavy_check_mark:
-[1] | TCP chat server | :heavy_check_mark:
+[0] | TCP or UDP server just to receive messages | ✔️
+[1] | TCP chat server | ✔️
 [2] | UDP chat server | ✔️
 [3] | Multi-threaded UDP or TCP chat server | ✔️
 [4] | Server for file transfers | ✔️
@@ -20,7 +20,7 @@ Level 1 | Basic | Exemple
 -------------------------------------------------------------------------------------------------------------------------------------------
 Level 2 | Essential | Exemple
 ------------------------------------------------|------------------------------------------------|-----------------------------------------
-[11] | Simple port scanner | :heavy_check_mark:
+[11] | Simple port scanner | ✔️
 [12] | Port scanner with OS fingerprint using TTL (Time To Live) | ✔️
 [13] | Port scanner with port footprint (HTTP? DNS? FTP? IRC?) | ✔️
 [14] | Simple Web Directory brute-forcer (Threaded) | ✔️
@@ -70,7 +70,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [51] | Payload that starts as a daemon | ✔️
 [52] | Payload that retrieves browser information | ✔️
 [53] | Link generator | ✔️
-[54] | ASCII Name generator [ just for fun :) ]  | ✔️
+[54] | ASCII Name generator  | ✔️
 [55] | Full chat server with private messages, file and image transfer | ✔️
 [56] | Simple firewall | ✔️
 [57] | Gateway | ✔️
@@ -91,7 +91,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 -------------------------------------------------------------------------------------------------------------------------------------------
  Level 5 | Cryptography, Reverse Engineering and Post exploitation | Exemple
 ------------------------------------------------|------------------------------------------|-----------------------------------------------
-[71] | Develop a code injection tool | :x:
+[71] | Develop a code injection tool | ✔️
 [72] | Develop a Worm with auto replication over email | ✔️
 [73] | Simple Disassembler | ✔️
 [74] | Server for DDoS with multi-staged operations and multi-threaded handling of clients | :x:
@@ -114,7 +114,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [91] | Exploitation Framework | :x:
 [92] | Botnet with SSH C&C and automatic server backup to prevent loss of control | :x:
 [93] | Windows enumeration tool | ✔️
-[94] | Application information gathering (after shell) | :x:
+[94] | Application information gathering (after shell) | ✔️
 [95] | Recreate TCPDUMP | ✔️
 [96] | Bluetooth exploit | :x:
 [97] | Windows Blue Screen Exploit | ✔️
