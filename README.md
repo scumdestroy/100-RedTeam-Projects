@@ -85,7 +85,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [66] | BurpSuite extender | :x:
 [67] | Develop a Trojan | :x:
 [68] | Man In The Browser tool (kind of) | :x:
-[69] | Process monitor (Windows and Linux) | :x:
+[69] | Process monitor (Windows and Linux) | ✔️✔️
 [70] | Windows token privilege escalation tool | :x:
 
 -------------------------------------------------------------------------------------------------------------------------------------------
@@ -96,7 +96,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [73] | Simple Disassembler | ✔️
 [74] | Server for DDoS with multi-staged operations and multi-threaded handling of clients | :x:
 [75] | Password hash cracker | ✔️
-[76] | Direct code injection exploit | :x:
+[76] | Direct code injection exploit | CVE-2023-3275 Discovered by me (@scumdestroy) 👑🐜🐞🪰
 [77] | Android daemon payload | :x:
 [78] | Browser exploitation tool | :x:
 [79] | Simple tool for Reverse Engineering | :x:
