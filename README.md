@@ -106,7 +106,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [83] | Wifi monitor | ✔️
 [84] | Buffer Overflow exploit | ✔️
 [85] | Stack Overflow exploit | :x:
-[86] | Banner exploit | :x:
+[86] | Banner exploit | ✔️
 [87] | ISS Exploit | :x:
 [88] | Wifi de-authentication attack (DoS) tool | ✔️
 [89] | Badchar detector | ✔️
