@@ -78,13 +78,13 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [59] | Bash payload generator | ✔️
 [60] | Subdomain enumerator | ✔️
 [61] | DNS Enumerator | ✔️
-[62] | Your own interpreter | :x:
+[62] | Your own interpreter | nah, this crazy, the tutorials go up to part 23 for the most basic ones. smh
 [63] | Develop a Worm | ✔️
 [64] | Server for DDOS | ✔️
 [65] | Implement an IP Tracker | ✔️
 [66] | BurpSuite extender | :x:
 [67] | Develop a Trojan | :x:
-[68] | Man In The Browser tool (kind of) | :x:
+[68] | Man In The Browser tool (kind of) | ✔️
 [69] | Process monitor (Windows and Linux) | ✔️✔️
 [70] | Windows token privilege escalation tool | :x:
 
