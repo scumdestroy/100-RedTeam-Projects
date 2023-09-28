@@ -74,7 +74,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [55] | Full chat server with private messages, file and image transfer | ✔️
 [56] | Simple firewall | ✔️
 [57] | Gateway | ✔️
-[58] | Powershell payload generator | :x:
+[58] | Powershell payload generator | ✔️
 [59] | Bash payload generator | ✔️
 [60] | Subdomain enumerator | ✔️
 [61] | DNS Enumerator | ✔️
@@ -99,7 +99,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [76] | Direct code injection exploit | CVE-2023-3275 Discovered by me (@scumdestroy) 👑🐜🐞🪰
 [77] | Android daemon payload | :x:
 [78] | Browser exploitation tool | :x:
-[79] | Simple tool for Reverse Engineering | :x:
+[79] | Simple tool for Reverse Engineering | ✔️
 [80] | Script for OS enumeration (after shell) | ✔️ ✔️
 [81] | RSA Payload generator | ✔️
 [82] | Handshake capture | ✔️
