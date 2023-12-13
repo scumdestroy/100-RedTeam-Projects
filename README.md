@@ -111,7 +111,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [88] | Wifi de-authentication attack (DoS) tool | ✔️
 [89] | Badchar detector | ✔️
 [90] | Firewall detector | ✔️
-[91] | Exploitation Framework | :x:
+[91] | Exploitation Framework | ✔️ 🔥 https://github.com/scumdestroy/ArsonAssistant 🔥
 [92] | Botnet with SSH C&C and automatic server backup to prevent loss of control | :x:
 [93] | Windows enumeration tool | ✔️
 [94] | Application information gathering (after shell) | ✔️
