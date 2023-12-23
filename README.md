@@ -39,7 +39,7 @@ Level 2 | Essential | Exemple
 [27] | Simple XSS tester | ✔️
 [28] | Simple Wordpress brute-forcer | ✔️
 [29] | SQLi database retriever | ✔️
-[30] | Spam creator | :x:
+[30] | Spam creator | ✔️
 -------------------------------------------------------------------------------------------------------------------------------------------
 Level 3 | Advanced Network Attacks | Exemple
 ------------------------------------------------|-------------------------------------------|----------------------------------------------
@@ -118,7 +118,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [95] | Recreate TCPDUMP | ✔️
 [96] | Bluetooth exploit | :x:
 [97] | Windows Blue Screen Exploit | ✔️
-[98] | Encoded exploit | :x:
-[99] | Antivirus evasion application | :x:
-[100] | Your own metasploit module | :x:
+[98] | Encoded exploit | ✔️ (double kill, the AV bypassing payload mentioned in the line below is encoded and armed with other tricks too)
+[99] | Antivirus evasion application | ✔️ (complete, but won't post here, as it would soon fail to evade any AV)
+[100] | Your own metasploit module | ✔️ (a couple exist in my repo, "Pentester scripts for dangerous boys")
 -------------------------------------------------------------------------------------------------------------------------------------------
