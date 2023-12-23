@@ -83,7 +83,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [64] | Server for DDOS | ✔️
 [65] | Implement an IP Tracker | ✔️
 [66] | BurpSuite extender | :x:
-[67] | Develop a Trojan | :x:
+[67] | Develop a Trojan | ✔️ (Will not post, as it is currently FUDAF and stack with layers of encryption so deep it wouldn't be valuable)
 [68] | Man In The Browser tool (kind of) | ✔️
 [69] | Process monitor (Windows and Linux) | ✔️✔️
 [70] | Windows token privilege escalation tool | :x:
@@ -107,7 +107,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [84] | Buffer Overflow exploit | ✔️
 [85] | Stack Overflow exploit | :x:
 [86] | Banner exploit | ✔️
-[87] | ISS Exploit | :x:
+[87] | ISS Exploit | ✔️
 [88] | Wifi de-authentication attack (DoS) tool | ✔️
 [89] | Badchar detector | ✔️
 [90] | Firewall detector | ✔️
@@ -116,7 +116,7 @@ Level 4 | Data analysis, payloads and more networking | Exemple
 [93] | Windows enumeration tool | ✔️
 [94] | Application information gathering (after shell) | ✔️
 [95] | Recreate TCPDUMP | ✔️
-[96] | Bluetooth exploit | :x:
+[96] | Bluetooth exploit | ✔️
 [97] | Windows Blue Screen Exploit | ✔️
 [98] | Encoded exploit | ✔️ (double kill, the AV bypassing payload mentioned in the line below is encoded and armed with other tricks too)
 [99] | Antivirus evasion application | ✔️ (complete, but won't post here, as it would soon fail to evade any AV)
