@@ -2,7 +2,6 @@ import socket
 import paramiko
 from datetime import datetime
 
-# Define the banner template
 banner_template = """
 Linux Console-MasterServer 6.1.0-22-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.94-1 (2024) x86_64
 
